@@ -1,4 +1,4 @@
 # Firstdemo
 This is the first demo
 <br>
-Author: Pushpendu
+Author: Pushpendu (The first author)
